@@ -1,5 +1,5 @@
 {
-  "name": "reveal-seg",
+  "name": "seg-glass",
   "homepage": "https://zennomi.github.io/Seg-Mirror-V1",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-draggable": "^4.4.6",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
